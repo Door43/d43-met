@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[met:home|Door43 (met)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-met|d43-met repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-met/archive/master.zip|d43-met.zip]]
+
+**Recent Changes**
+{{changes>ns = met}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/met|Ethnologue data]]
+
